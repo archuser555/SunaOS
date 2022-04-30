@@ -1,7 +1,7 @@
 <h2>Welcom Folks, This Is Suna Os!</h2>
 <h4>A Simple Os, Based On Google Search And My Knowledge</h4>
 <h2>Stuffs I Need ToDo</h2>
-Costimize Grub (i need help about this please, i dont know how to do this)
+Costimize Grub (i need help about this please, i dont know how to do this)<br>
 Basic Calculator Done
 Science Calculator in dev
 better memory managment no
