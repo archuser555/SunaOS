@@ -1,4 +1,4 @@
-<body align='center'>
+<body align="center">
 <h1>Its Suna Os!</h1>
 <img height="500" alt="GPL3 License" src="sunaos.png" />
 <h4>A Simple Os, Based On Google Search And My Knowledge</h4>
