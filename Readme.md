@@ -1,8 +1,6 @@
 # Its Suna Os!
 > A Simple Operation System + Kernel, Based On Some Random Repos And My Knowledge, And Some Courses
 
-![This is an image](sunaos.png)
-
 **Stuffs I Need ToDo**
 - [x] Basic Calculator <br>
 - [ ] Science Calculator <br>
