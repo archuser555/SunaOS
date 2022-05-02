@@ -1,10 +1,10 @@
-<body align="center">
-<h1>Its Suna Os!</h1>
-<img height="500" alt="GPL3 License" src="sunaos.png" />
-<h4>A Simple Os, Based On Google Search And My Knowledge</h4>
-<h2>Stuffs I Need ToDo</h2>
-Costimize Grub (i need help about this please, i dont know how to do this)<br>
-Basic Calculator Done<br>
+<body>
+<h1 align="center">Its Suna Os!</h1>
+<img align="center" height="500" alt="GPL3 License" src="sunaos.png" />
+<h4 align="center" >A Simple Os, Based On Google Search And My Knowledge</h4>
+<h2 lign="center">Stuffs I Need ToDo</h2>
+- [] Costimize Grub (i need help about this please, i dont know how to do this)<br>
+- [] Basic Calculator Done<br>
 Science Calculator in dev<br>
 better memory managment no<br>
 networking no<br>
