@@ -1,6 +1,6 @@
 <body>
 <h1 align="center">Its Suna Os!</h1>
-<img align="center" height="500" alt="GPL3 License" src="sunaos.png" />
+<img align="left" height="500" alt="GPL3 License" src="sunaos.png" />
 <h4 align="center" >A Simple Os, Based On Google Search And My Knowledge</h4>
 <h2 lign="center">Stuffs I Need ToDo</h2>
 - [] Costimize Grub (i need help about this please, i dont know how to do this)<br>
