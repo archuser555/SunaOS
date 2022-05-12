@@ -122,11 +122,11 @@ void puts(char *str,int a)
   }
 }
 
-void print_int(int num,int v)
+/*void print_int(int num,int v)
 {
   char str_num[digit_count(num)+1];
   itoa(num, str_num);
   puts(str_num,v);
-}
+}*/ Detect Issue With This...
 
 #endif
