@@ -127,6 +127,6 @@ void puts(char *str,int a)
   char str_num[digit_count(num)+1];
   itoa(num, str_num);
   puts(str_num,v);
-}*/ Detect Issue With This...
+}*/ // Detect Issue With This...
 
 #endif
