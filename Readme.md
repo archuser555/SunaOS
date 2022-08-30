@@ -1,5 +1,6 @@
 # Its Suna Os!
 > A Simple Operation System + Kernel, Based On Some Random Repos And My Knowledge, And Some Courses
+> Colab Are Welcome, I Working Hard To Rewriting The Os To RUST Langue
 
 **Stuffs I Need ToDo**
 - [x] Basic Calculator <br>
